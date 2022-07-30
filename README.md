@@ -3,6 +3,7 @@
 [![maintenance status: passively-maintained](https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg)](https://doc.rust-lang.org/cargo/reference/manifest.html#the-badges-section)
 [![license: MIT OR APACHE-2.0](https://img.shields.io/crates/l/rust-template-generated-bin.svg)](#license)
 [![crates.io](https://img.shields.io/crates/v/rust-template-generated-bin.svg)](https://crates.io/crates/rust-template-generated-bin)
+[![docs.rs](https://docs.rs/rust-template-generated-bin/badge.svg)](https://docs.rs/rust-template-generated-bin/)
 [![rust 1.56.1+ badge](https://img.shields.io/badge/rust-1.56.1+-93450a.svg)](https://doc.rust-lang.org/cargo/reference/manifest.html#the-rust-version-field)
 [![Rust CI](https://github.com/gifnksm/rust-template-generated-bin/actions/workflows/ci.yml/badge.svg)](https://github.com/gifnksm/rust-template-generated-bin/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/gifnksm/rust-template-generated-bin/graph/badge.svg)](https://codecov.io/gh/gifnksm/rust-template-generated-bin)
