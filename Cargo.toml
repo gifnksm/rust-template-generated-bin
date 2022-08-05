@@ -17,3 +17,5 @@ maintenance = { status = "passively-maintained" }
 
 [dependencies]
 
+[profile.release]
+strip = true
