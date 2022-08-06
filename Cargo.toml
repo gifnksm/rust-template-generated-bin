@@ -12,10 +12,16 @@ categories = []
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[badges]
-maintenance = { status = "passively-maintained" }
-
 [dependencies]
+
+[dev-dependencies]
+
+[build-dependencies]
+
+[profile.dev]
 
 [profile.release]
 strip = true
+
+[badges]
+maintenance = { status = "passively-maintained" }
