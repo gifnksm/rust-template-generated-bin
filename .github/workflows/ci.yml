@@ -41,7 +41,6 @@ jobs:
       matrix:
         rust:
           - stable
-          - 1.59.0 # MSRV
         os:
           - ubuntu-latest
           - macos-latest
