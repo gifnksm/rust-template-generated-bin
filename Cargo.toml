@@ -1,3 +1,6 @@
+[workspace]
+members = ["xtask"]
+
 [package]
 name = "rust-template-generated-bin"
 version = "0.0.0"
