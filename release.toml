@@ -8,3 +8,4 @@ pre-release-replacements = [
   
 ]
 pre-release-hook = ["cargo", "test"]
+dev-version = true
