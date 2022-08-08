@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - ReleaseDate
 
+## [0.2.0] - 2022-08-08
+
 * Second release
 
 ## [0.1.0] - 2022-08-07
@@ -16,5 +18,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * First release
 
 <!-- next-url -->
-[Unreleased]: https://github.com/gifnksm/rust-template-generated-bin/compare/{{tag_name}}...HEAD
+[Unreleased]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/gifnksm/rust-template-generated-bin/compare/{{tag_name}}...v0.2.0
 [0.1.0]: https://github.com/gifnksm/rust-template-generated-bin/commits/{{tag_name}}
