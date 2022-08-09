@@ -443,7 +443,7 @@ checksum = "b833d8d034ea094b1ea68aa6d5c740e0d04bad9d16568d08ba6f76823a114316"
 
 [[package]]
 name = "rust-template-generated-bin"
-version = "0.3.4"
+version = "0.3.5-alpha.0"
 dependencies = [
  "clap",
 ]
