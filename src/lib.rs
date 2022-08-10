@@ -6,10 +6,10 @@
 //!
 //! ```toml
 //! [dependencies]
-//! rust-template-generated-bin = "0.3.4"
+//! rust-template-generated-bin = "0.3.5"
 //! ```
 
-#![doc(html_root_url = "https://docs.rs/rust-template-generated-bin/0.3.4")]
+#![doc(html_root_url = "https://docs.rs/rust-template-generated-bin/0.3.5")]
 
 use clap::Parser;
 
