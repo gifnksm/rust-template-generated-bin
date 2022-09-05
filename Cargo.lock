@@ -176,9 +176,9 @@ dependencies = [
 
 [[package]]
 name = "cli-xtask"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "115c25569d1640f7876e00cf0d64b36d9fc963f4e464651fe2f737f74d2d9cad"
+checksum = "e8659ad10ba712fc0939371253b2570a2605287104d20c32672ca122aa283c6c"
 dependencies = [
  "cargo_metadata",
  "clap",
@@ -351,9 +351,9 @@ checksum = "2dffe52ecf27772e601905b7522cb4ef790d2cc203488bbd0e2fe85fcb74566d"
 
 [[package]]
 name = "miniz_oxide"
-version = "0.5.3"
+version = "0.5.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6f5c75688da582b8ffc1f1799e9db273f32133c49e048f614d22ec3256773ccc"
+checksum = "96590ba8f175222643a85693f33d26e9c8a015f599c216509b1a6894af675d34"
 dependencies = [
  "adler",
 ]
