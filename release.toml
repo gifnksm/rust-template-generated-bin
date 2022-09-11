@@ -8,5 +8,5 @@ pre-release-replacements = [
   {file = "src/lib.rs", search = "^//! rust-template-generated-bin = \".*\"$", replace = "//! rust-template-generated-bin = \"{{version}}\"", exactly = 1},
   {file = "src/lib.rs", search = "^#!\\[doc\\(html_root_url = \"https://docs.rs/rust-template-generated-bin/.*\"\\)\\]$", replace = "#![doc(html_root_url = \"https://docs.rs/rust-template-generated-bin/{{version}}\")]", exactly = 1},
 ]
-pre-release-hook = ["cargo", "test"]
+pre-release-hook = ["cargo", "xtask", "pre-release"]
 dev-version = true
