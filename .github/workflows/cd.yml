@@ -1,8 +1,5 @@
 name: CD
 
-env:
-  CRATE_TYPE: "bin"
-
 on:
   push:
     tags:
@@ -13,9 +10,6 @@ on:
 
 jobs:
   cd:
-    strategy:
-      matrix:
-        crate_type: [ bin ]
     uses: gifnksm/rust-template/.github/workflows/reusable-cd.yml@main
     with:
-      upload-dist-archive: ${{ matrix.crate_type == 'bin' }}
+      upload-dist-archive: true
