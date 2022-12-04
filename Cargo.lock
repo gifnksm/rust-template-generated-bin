@@ -149,9 +149,9 @@ dependencies = [
 
 [[package]]
 name = "cli-xtask"
-version = "0.6.0"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "41d42729bbeb45e3fd031e81ef76e1cee2af4b8fbebc6cecf66d51c176c8f7b3"
+checksum = "ed7b209d0623fb9d2cfaa418519daaf330eecb910745c88afa4d83a0d19db83c"
 dependencies = [
  "cargo_metadata",
  "clap",
@@ -321,9 +321,9 @@ checksum = "e2abad23fbc42b3700f2f279844dc832adb2b2eb069b2df918f455c4e18cc646"
 
 [[package]]
 name = "libc"
-version = "0.2.137"
+version = "0.2.138"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fc7fcc620a3bff7cdd7a365be3376c97191aeaccc2a603e600951e452615bf89"
+checksum = "db6d7e329c562c5dfab7a46a2afabc8b987ab9a4834c9d1ca04dc54c1546cef8"
 
 [[package]]
 name = "linux-raw-sys"
