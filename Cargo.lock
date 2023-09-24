@@ -244,9 +244,9 @@ dependencies = [
 
 [[package]]
 name = "cli-xtask"
-version = "0.7.0"
+version = "0.7.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ad9da76069188fa80a0dc9127a3a9390c0eeaadb49532b7c081915165503060d"
+checksum = "f106d2b6462731c41cedca3dbd6ce4e8357e5b5efcbc870c5adb6325630ae101"
 dependencies = [
  "cargo_metadata",
  "chrono",
