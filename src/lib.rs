@@ -11,14 +11,6 @@
 
 #![doc(html_root_url = "https://docs.rs/rust-template-generated-bin/0.3.5")]
 
-use clap::Parser;
-
-#[derive(clap::Parser)]
-pub struct App {}
-
-pub fn main() {
-    let _args = App::parse();
-}
 #[cfg(test)]
 mod tests {
     #[test]
