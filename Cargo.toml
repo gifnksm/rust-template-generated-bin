@@ -21,6 +21,7 @@ crates-io = true
 rust-version = true
 github-actions = { workflows = "ci.yml" }
 codecov = true
+
 [package.metadata.binstall]
 pkg-url = "{ repo }/releases/download/v{ version }/{ name }-v{ version }-{ target }.{ archive-format }"
 bin-dir = "{ bin }{ binary-ext }"
@@ -32,13 +33,8 @@ clap_complete = "4.6"
 clap_complete_nushell = "4.6"
 clap_mangen = "0.3"
 
-[dev-dependencies]
-[build-dependencies]
-
-[profile.dev]
+[badges]
+maintenance = { status = "passively-maintained" }
 
 [profile.release]
 strip = true
-
-[badges]
-maintenance = { status = "passively-maintained" }
