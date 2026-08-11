@@ -81,26 +81,4 @@ cargo test
   cargo build --release && cargo run --release
   ```
 
-- Run formatting checks:
-
-  ```console
-  just fmt --check
-  ```
-
-- Format the code in the project:
-
-  ```console
-  just fmt
-  ```
-
-- Run all tests:
-
-  ```console
-  just test-all
-  ```
-
-- Run Clippy:
-
-  ```console
-  just clippy-all -- -D warnings
-  ```
+See `just --list` for more commands.
