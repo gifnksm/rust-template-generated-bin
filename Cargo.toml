@@ -40,5 +40,9 @@ clap_mangen = "0.3.3"
 [badges]
 maintenance = { status = "passively-maintained" }
 
+[profile.dev]
+# for faster development iterations
+debug = "line-tables-only"
+
 [profile.release]
 strip = true
