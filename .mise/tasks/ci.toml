@@ -19,6 +19,12 @@ depends = [
   "check:rustdoc",
 ]
 
+["ci:check-docs-rs"]
+depends = [
+  "show-version:rust",
+  "check:docs-rs",
+]
+
 ["ci:lint-unused-deps"]
 depends = [
   "show-version:rust",
