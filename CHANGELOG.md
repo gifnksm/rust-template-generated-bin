@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 ## [Unreleased] - ReleaseDate
 
+## [0.3.10] - 2026-11-13
+
 ## [0.3.9] - 2026-10-26
 
 ## [0.3.8] - 2026-10-12
@@ -41,7 +43,8 @@ The format is based on [Keep a Changelog], and this project adheres to
 * First release
 
 <!-- next-url -->
-[Unreleased]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.9...HEAD
+[Unreleased]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.10...HEAD
+[0.3.10]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.9...v0.3.10
 [0.3.9]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.8...v0.3.9
 [0.3.8]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.7...v0.3.8
 [0.3.7]: https://github.com/gifnksm/rust-template-generated-bin/compare/v0.3.6...v0.3.7
