@@ -444,9 +444,9 @@ url = "https://github.com/google/osv-scanner/releases/download/v2.7.1/osv-scanne
 url_api = "https://api.github.com/repos/google/osv-scanner/releases/assets/726165294"
 
 [[tools.rumdl]]
-version = "v0.3.4"
+version = "0.3.4"
 backend = "aqua:rvben/rumdl"
-specifiers = ["v0.3.4"]
+specifiers = ["0.3.4"]
 
 [tools.rumdl."platforms.linux-arm64"]
 checksum = "sha256:d51bfff8c4aacebb786f701918389b3b568129cb9c16aee12567ede6869a61ad"
