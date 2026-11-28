@@ -306,7 +306,7 @@ provenance = "github-attestations"
 [[tools."github:rust-secure-code/cargo-auditable"]]
 version = "0.7.8"
 backend = "github:rust-secure-code/cargo-auditable"
-specifiers = ["v0.7.8"]
+specifiers = ["0.7.8"]
 
 [tools."github:rust-secure-code/cargo-auditable"."platforms.linux-arm64"]
 checksum = "sha256:a5c316bafde3585b85c55c568dbb9153f144f7dbbaa6c663c2a9037e3df66fe9"
